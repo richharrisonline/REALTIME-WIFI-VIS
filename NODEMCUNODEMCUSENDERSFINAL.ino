@@ -1,6 +1,6 @@
 /**
  * @file ESP8266_Satellite_Node.ino
- * @author Your Name/GitHub Handle
+ * @author richharrisonline
  * @brief Satellite Sensor Node for WiFi Tracking System.
  * * ROLE: 
  * This node scans the local area for the strongest WiFi Access Point to determine 
