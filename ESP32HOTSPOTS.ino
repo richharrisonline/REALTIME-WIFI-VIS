@@ -1,6 +1,6 @@
 /**
  * @file ESP32_AccessPoint_Basic.ino
- * @author YourName
+ * @author richharrisonline
  * @brief Demonstrates how to configure an ESP32 as a standalone WiFi Access Point (Hotspot).
  * @version 0.1
  * @date 2026-02-10
