@@ -1,7 +1,7 @@
 """
 Real-Time WiFi RSSI Heatmap Visualizer
 ======================================
-This script provides a live graphical interface to map WiFi signal strength (RSSI)
+This python script provides a live graphical interface to map WiFi signal strength (RSSI)
 from multiple nodes (ESP8266/ESP32 or Raspberry Pi) onto a custom floorplan.
 
 Features:
