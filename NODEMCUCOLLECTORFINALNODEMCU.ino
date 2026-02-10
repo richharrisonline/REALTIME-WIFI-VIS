@@ -1,6 +1,6 @@
 /**
  * @file ESP8266_Hub_Collector.ino
- * @author Your Name/GitHub Handle
+ * @author richharrisonline
  * @brief Central Data Collector using ESP-NOW and WiFi Scanning.
  * * This sketch performs two main roles:
  * 1. Listening: Receives RSSI and MAC data from peripheral nodes via ESP-NOW.
