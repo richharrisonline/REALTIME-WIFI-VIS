@@ -11,6 +11,7 @@ NODEMCUNODEMCUSENDERSFINAL.ino - Send node info to the "collector" ESP32 device.
 local_radar.py - Main "dashboard" compiles the node info from the "collector" and displays them on top of the heatmap.
 rpisender.py - Scans Wi-Fi networks and sends node info to the dashboard.
 floorplan.png - Change this file to add your own custom floorplan.
+SCREENSHOT.png - Screenshot of the current version.
 
 CHANGES TO COME - make it easier to upload floorplan file, add nodes from the dashboard interface, add and edit nodes directly from the dashboard, change heatmap "blob" size and accuracy.
 
