@@ -1,8 +1,6 @@
 Realtime WIFI Visualization with ESP32/ESP8266/WIFI
 -------
-A realtime WIFI heatmap that can display 2.4 GHz Wi-Fi, ESP32 or ESP8266 "nodes"
-Monitor your Wi-Fi signals visualy in real time with this wireless heatmap tool. (can be used to optimize and analyze wireless network coverage)
-Click and drag nodes around on top of a floorplan image for visualization of Wi-Fi signals, change the "floorplan.png"
+A realtime WIFI heatmap that can display 2.4 GHz Wi-Fi, ESP32 or ESP8266 "nodes". A "collector" NODEMCU ESP8266 collects signal strength from "sender" NODEMCUs/RPI and displays it ontop of your floorplan.png. Monitor your Wi-Fi signals visualy in real time with this wireless heatmap tool. (can be used to optimize and analyze wireless network coverage) Click and drag nodes around on top of a floorplan image for visualization of Wi-Fi signals, change the "floorplan.png" to your custom image.
 
 FILES: 
 ESP32HOTSPOTS.ino - Create multiple WIFI hotspots for testing.
