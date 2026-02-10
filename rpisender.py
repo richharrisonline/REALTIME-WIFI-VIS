@@ -14,8 +14,8 @@ Requirements:
 - NetworkManager installed (`sudo apt install network-manager`).
 - The Dashboard PC and the Pi must be on the same local network.
 
-Author: [Your Name]
-License: MIT
+Author: [richharrisonline]
+License: NO
 """
 
 import subprocess
