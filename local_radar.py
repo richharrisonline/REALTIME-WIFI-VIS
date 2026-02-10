@@ -11,8 +11,8 @@ Features:
 - Scene Management: Toggle between full views, specific node groups, and debug logs.
 - Automatic Persistence: Saves node coordinates and names to a local JSON file.
 
-Author: [Your Name/GitHub Handle]
-License: MIT
+Author: [richharrisonline]
+License: NO
 """
 
 import serial, time, json, os, socket, threading, re
