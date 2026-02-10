@@ -20,6 +20,9 @@ This is my first GITHUB submission, open source project.. feel free to modify or
 Have fun.
 
 cd ~/YOURFOLDER
+
 source venv/bin/activate
+
 sudo chmod 666 /dev/ttyUSB0
+
 python local_radar.py
